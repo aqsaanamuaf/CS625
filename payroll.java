@@ -1,4 +1,4 @@
- public class Payroll
+ public class payroll
  {
    public static void main(String[] args)    
     {    
